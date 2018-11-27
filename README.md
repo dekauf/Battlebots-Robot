@@ -8,7 +8,7 @@ Collaborators: Delaney Kaufman, Placid Unegbu, Lizzie Tu
 The robot was designed to compete in an arena and use its weapons to attack other robots. It aims to drive to a goal location and press a button for long enough to damage the other team. It has capabilties of healing based on recognizing a certain frequency of light from a beacon and various visual and acoustic indicators to signal that the touch receptors have registered a 'hit' on another robot. 
 
 ### Side View
-![alt text](https://github.com/OmkarSavant/Battlebots-Robot/blob/master/side%20view.png)
+![alt text](https://github.com/dekauf/Battlebots-Robot/blob/master/side%20view.png)
 
 ### Top View
 ![alt text](https://github.com/OmkarSavant/Battlebots-Robot/blob/master/top%20view.png)
