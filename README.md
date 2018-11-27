@@ -11,7 +11,7 @@ The robot was designed to compete in an arena and use its weapons to attack othe
 ![alt text](https://github.com/dekauf/Battlebots-Robot/blob/master/side%20view.png)
 
 ### Top View
-![alt text](https://github.com/OmkarSavant/Battlebots-Robot/blob/master/top%20view.png)
+![alt text](https://github.com/dekauf/Battlebots-Robot/blob/master/top%20view.png)
 
 ### Controller
 
